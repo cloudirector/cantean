@@ -1,0 +1,30 @@
+{
+  "name": "cantean",
+  "version": "0.0.0",
+  "description": "good juice",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0",
+    "ws": "^7.5.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "cantean"
+  ],
+  "author": "Public Board of Education",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
