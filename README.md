@@ -1,4 +1,6 @@
 # Cantean Webproxy
+> everything aside from this text is the origional old readme
+
 a nifty little obfuscated (so networks admins cant patch it) node webproxy based on https://github.com/titaniumnetwork-dev/corrosion to evade internet censorship :p
 
 you can import this repo to glitch.com like i have done (cantean.glitch.me), or put it on a diffrent hosting service and run the command below after editing the config.json to your likeing;
